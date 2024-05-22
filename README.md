@@ -8,7 +8,7 @@ I'm Pratyush, a seasoned Software Engineer specializing in back-end development 
 - 👀 I’m interested in backend development, microservices architecture, and machine learning.
 - 🌱 I’m currently learning advanced Flask techniques, Docker, and Kubernetes.
 - 💞️ I’m looking to collaborate on open-source projects, particularly those related to Flask and Python.
-- 📫 How to reach me: pratyush@example.com
+- 📫 How to reach me: pratyush.krishna108@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love hiking and exploring nature during my free time.
 
