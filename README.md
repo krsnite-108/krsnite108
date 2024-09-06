@@ -5,12 +5,12 @@ I'm Pratyush, a seasoned Software Engineer specializing in back-end development 
 
 ## About Me
 
-- 👀 I’m interested in backend development, microservices architecture, and machine learning.
-- 🌱 I’m currently learning advanced Flask techniques, Docker, and Kubernetes.
-- 💞️ I’m looking to collaborate on open-source projects, particularly those related to Flask and Python.
+- 👀 I’m interested in backend development, Software architecture, Distributed Systems and machine learning.
+- 🌱 I’m currently experimenting with the concurrency in Go.
+- 💞️ I’m looking to collaborate on open-source projects, particularly those related to Backend and are Distributed in nature.
 - 📫 How to reach me: pratyush.krishna108@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love hiking and exploring nature during my free time.
+- ⚡ Fun fact: I am a Nature Aficionado and find my solace there if I am not having some deep conversations.
 
 ## Professional Background
 
@@ -39,6 +39,7 @@ I'm Pratyush, a seasoned Software Engineer specializing in back-end development 
 
 ## Projects
 
+TBU
 
 ## Contact Me
 
